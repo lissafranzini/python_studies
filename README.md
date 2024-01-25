@@ -7,5 +7,5 @@ Each project covers different concepts in python, that are listed in a "concepts
 
 <h3 align="left"> Projects </h3>
 1. Learn string manipulation by building a cypher<br>
-2. Learn how to work with numbers and strings by implementing the luhn algorithn
+2. Learn how to work with numbers and strings by implementing the luhn algorithn<br>
 3. Learn lambda functions by building an expense tracker
