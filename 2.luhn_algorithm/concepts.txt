@@ -1,0 +1,7 @@
+This project covers the following concepts:
+- variable and function declaration
+- loops
+- conditional statements
+- operators
+- string manipulation
+- variable casting
