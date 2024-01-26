@@ -1,0 +1,4 @@
+This project covers the following concepts:
+-join function (making strings out of lists)
+-strip function
+-building lists using loops and conditionals inside list declaration
