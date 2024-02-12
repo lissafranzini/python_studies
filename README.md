@@ -13,3 +13,4 @@ Each project covers different concepts in python, the main concepts learnt in ea
 5. Learn regular epressions by building a password generator<br>
 6. Learn algorithm design by building a shortest path algorithm<br>
 7. Learn recursion by solving the tower of hanoi puzzle<br>
+8. Learn data structures by building the merge sort algorithm<br>
