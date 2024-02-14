@@ -1,0 +1,7 @@
+This project covers the following concepts:
+-objects
+-classes
+-methods
+-enumeration
+-try/except
+-walrus operator
